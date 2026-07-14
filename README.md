@@ -1,21 +1,33 @@
-📱 MyNavigation
+# 📱 MyNavigation
 
-O MyNavigation é um aplicativo desenvolvido em React Native com o objetivo de praticar a implementação de navegação entre telas utilizando a biblioteca React Navigation. O projeto simula um aplicativo de contatos, permitindo navegar entre diferentes páginas por meio de uma navegação em pilha (Stack Navigation) e por abas (Bottom Tab Navigation).
+O **MyNavigation** é um aplicativo desenvolvido em **React Native** com o objetivo de praticar a implementação de navegação entre telas utilizando a biblioteca **React Navigation**. O projeto simula um aplicativo de contatos, permitindo navegar entre diferentes páginas por meio de **Stack Navigation** e **Bottom Tab Navigation**.
 
-✨ Funcionalidades
-Navegação entre telas utilizando Stack Navigator.
-Navegação por abas com Bottom Tab Navigator.
-Exibição de uma lista de contatos.
-Acesso à tela de informações de um contato.
-Estrutura organizada para facilitar a manutenção e evolução do projeto.
-🛠️ Tecnologias Utilizadas
-React Native
-Expo
-JavaScript
-React Navigation
-Stack Navigator
-Bottom Tab Navigator
-📂 Estrutura do Projeto
+---
+
+## ✨ Funcionalidades
+
+- Navegação entre telas utilizando **Stack Navigator**.
+- Navegação por abas com **Bottom Tab Navigator**.
+- Exibição de uma lista de contatos.
+- Tela com informações de contato.
+- Estrutura organizada para facilitar a manutenção do projeto.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- React Native
+- Expo
+- JavaScript
+- React Navigation
+- Stack Navigator
+- Bottom Tab Navigator
+
+---
+
+## 📂 Estrutura do Projeto
+
+```text
 MyNavigation/
 ├── app/
 ├── src/
@@ -28,23 +40,52 @@ MyNavigation/
 ├── components/
 ├── package.json
 └── README.md
-🚀 Como executar o projeto
-Clone o repositório:
-git clone https://github.com/SEU-USUARIO/MyNavigation.git
-Acesse a pasta do projeto:
+```
+
+---
+
+## 🚀 Como executar o projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Pedro312777/MyNavigation.git
+```
+
+### 2. Acesse a pasta do projeto
+
+```bash
 cd MyNavigation
-Instale as dependências:
+```
+
+### 3. Instale as dependências
+
+```bash
 npm install
-Execute o projeto:
+```
+
+### 4. Execute o projeto
+
+```bash
 npx expo start
-Escaneie o QR Code com o aplicativo Expo Go ou execute em um emulador Android/iOS.
-📖 Objetivo
+```
 
-Este projeto foi desenvolvido como prática de estudos em React Native, com foco na compreensão dos diferentes tipos de navegação disponíveis no React Navigation, organização de telas e criação de interfaces simples para dispositivos móveis.
+Após iniciar o servidor, escaneie o QR Code com o **Expo Go** ou execute o aplicativo em um emulador Android ou iOS.
 
-👨‍💻 Autor
+---
 
-José Pedro Silva Morais
+## 🎯 Objetivo
 
-GitHub: https://github.com/Pedro312777
-LinkedIn: (adicione o link do seu perfil)
+Este projeto foi desenvolvido com fins de estudo para compreender os conceitos de navegação em aplicações React Native, utilizando o React Navigation para criar uma experiência de navegação entre telas e abas.
+
+---
+
+## 👨‍💻 Autor
+
+**José Pedro da Silva Morais**
+
+- GitHub: https://github.com/Pedro312777
+- LinkedIn: https://www.linkedin.com/in/josepedro-dev/
+
+---
+⭐ Se você gostou deste projeto, deixe uma estrela no repositório!
