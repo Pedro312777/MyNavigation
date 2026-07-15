@@ -84,6 +84,8 @@ Este projeto foi desenvolvido com fins de estudo para compreender os conceitos d
 
 **José Pedro da Silva Morais**
 
+Graduado em Análise e Desenvolvimento de Sistemas.
+
 - GitHub: https://github.com/Pedro312777
 - LinkedIn: https://www.linkedin.com/in/josepedro-dev/
 
