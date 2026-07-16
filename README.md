@@ -86,8 +86,13 @@ Este projeto foi desenvolvido com fins de estudo para compreender os conceitos d
 
 Graduado em Análise e Desenvolvimento de Sistemas.
 
-- GitHub: https://github.com/Pedro312777
+---
+
+## 📫 Contato
+
 - LinkedIn: https://www.linkedin.com/in/josepedro-dev/
+- Email: josepedrointeligencia@gmail.com
 
 ---
+
 ⭐ Se você gostou deste projeto, deixe uma estrela no repositório!
